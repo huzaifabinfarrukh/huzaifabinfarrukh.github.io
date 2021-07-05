@@ -1,4 +1,4 @@
-baseurl = "https://huzaifabinfarrukh.github.io"
+baseurl = "/"
 publishdir="docs"
 languageCode = "en_US"
 title = "OS By huzaifa"
