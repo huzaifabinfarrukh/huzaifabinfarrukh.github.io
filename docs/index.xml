@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OS By huzaifa</title>
-    <link>http://huzaifabinfarrukh.github.io/</link>
+    <link>https://huzaifabinfarrukh.github.io/</link>
     <description>Recent content on OS By huzaifa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_US</language>
-    <lastBuildDate>Mon, 05 Jul 2021 16:38:24 +0500</lastBuildDate><atom:link href="http://huzaifabinfarrukh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 16:38:24 +0500</lastBuildDate><atom:link href="https://huzaifabinfarrukh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Task</title>
-      <link>http://huzaifabinfarrukh.github.io/post/my-second-task/</link>
+      <link>https://huzaifabinfarrukh.github.io/post/my-second-task/</link>
       <pubDate>Mon, 05 Jul 2021 16:38:24 +0500</pubDate>
       
-      <guid>http://huzaifabinfarrukh.github.io/post/my-second-task/</guid>
+      <guid>https://huzaifabinfarrukh.github.io/post/my-second-task/</guid>
       <description>Logo n this task we we’re asked to print NUST using characters on the screen instead of OK.
 Most of the files remain same as they were in the previous task. But for this we use C language to print “NUST” using “*” on the screen.
 First we build the stack. It is useful because it return the data every time function completes and also returns the control. We reserved 16kb of memeory for the stack.</description>
@@ -20,10 +20,10 @@ First we build the stack. It is useful because it return the data every time fun
     
     <item>
       <title>My First Task</title>
-      <link>http://huzaifabinfarrukh.github.io/post/my-first-task/</link>
+      <link>https://huzaifabinfarrukh.github.io/post/my-first-task/</link>
       <pubDate>Mon, 05 Jul 2021 16:36:58 +0500</pubDate>
       
-      <guid>http://huzaifabinfarrukh.github.io/post/my-first-task/</guid>
+      <guid>https://huzaifabinfarrukh.github.io/post/my-first-task/</guid>
       <description>OK Firstly, we use VS code to setup our required files. Our task is to print OK on the screen for which we use some packages using RUN command. We use NASM to compile the code and grub package to get the final file. The header.asm and main.asm files are contained in the SRC folder. We used two label for start and end of header. Here we add the magic number and length.</description>
     </item>
     
